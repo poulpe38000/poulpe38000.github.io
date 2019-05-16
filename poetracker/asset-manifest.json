@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poetracker/static/css/main.d2718870.chunk.css",
-    "main.js": "/poetracker/static/js/main.2eabf840.chunk.js",
-    "main.js.map": "/poetracker/static/js/main.2eabf840.chunk.js.map",
-    "runtime~main.js": "/poetracker/static/js/runtime~main.f2b7c437.js",
-    "runtime~main.js.map": "/poetracker/static/js/runtime~main.f2b7c437.js.map",
-    "static/js/2.a24d13dc.chunk.js": "/poetracker/static/js/2.a24d13dc.chunk.js",
-    "static/js/2.a24d13dc.chunk.js.map": "/poetracker/static/js/2.a24d13dc.chunk.js.map",
-    "index.html": "/poetracker/index.html",
-    "precache-manifest.3a5b5122bd0d9133d3f4184e57e9ad3e.js": "/poetracker/precache-manifest.3a5b5122bd0d9133d3f4184e57e9ad3e.js",
-    "service-worker.js": "/poetracker/service-worker.js",
-    "static/css/main.d2718870.chunk.css.map": "/poetracker/static/css/main.d2718870.chunk.css.map"
+    "main.css": "https://poulpe38000.github.io/poetracker/static/css/main.d2718870.chunk.css",
+    "main.js": "https://poulpe38000.github.io/poetracker/static/js/main.0133f68b.chunk.js",
+    "main.js.map": "https://poulpe38000.github.io/poetracker/static/js/main.0133f68b.chunk.js.map",
+    "runtime~main.js": "https://poulpe38000.github.io/poetracker/static/js/runtime~main.bb2f32a8.js",
+    "runtime~main.js.map": "https://poulpe38000.github.io/poetracker/static/js/runtime~main.bb2f32a8.js.map",
+    "static/js/2.a24d13dc.chunk.js": "https://poulpe38000.github.io/poetracker/static/js/2.a24d13dc.chunk.js",
+    "static/js/2.a24d13dc.chunk.js.map": "https://poulpe38000.github.io/poetracker/static/js/2.a24d13dc.chunk.js.map",
+    "index.html": "https://poulpe38000.github.io/poetracker/index.html",
+    "precache-manifest.35d990326682d918b7b64348a41e274a.js": "https://poulpe38000.github.io/poetracker/precache-manifest.35d990326682d918b7b64348a41e274a.js",
+    "service-worker.js": "https://poulpe38000.github.io/poetracker/service-worker.js",
+    "static/css/main.d2718870.chunk.css.map": "https://poulpe38000.github.io/poetracker/static/css/main.d2718870.chunk.css.map"
   }
 }
