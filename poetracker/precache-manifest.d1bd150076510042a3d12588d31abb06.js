@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97924b2e647ebdaafbafc302f2ef1afa",
+    "revision": "515ecf7f511873fe7ea83ebb7d5b60cf",
     "url": "https://poulpe38000.github.io/poetracker/index.html"
   },
   {
-    "revision": "6910666a2d8c9423237b",
+    "revision": "c2bd13baa26a6716e683",
     "url": "https://poulpe38000.github.io/poetracker/static/css/main.d2718870.chunk.css"
   },
   {
-    "revision": "c3b98f0e419ce88ad997",
-    "url": "https://poulpe38000.github.io/poetracker/static/js/2.a24d13dc.chunk.js"
+    "revision": "fc44ce00f8ef16895dae",
+    "url": "https://poulpe38000.github.io/poetracker/static/js/2.fb1c1a48.chunk.js"
   },
   {
-    "revision": "6910666a2d8c9423237b",
-    "url": "https://poulpe38000.github.io/poetracker/static/js/main.0133f68b.chunk.js"
+    "revision": "c2bd13baa26a6716e683",
+    "url": "https://poulpe38000.github.io/poetracker/static/js/main.8b2312be.chunk.js"
   },
   {
     "revision": "1aa5119561d64a8e5e65",
