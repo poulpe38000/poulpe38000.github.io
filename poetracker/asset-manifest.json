@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poetracker/static/css/main.d2718870.chunk.css",
-    "main.js": "/poetracker/static/js/main.175df073.chunk.js",
-    "main.js.map": "/poetracker/static/js/main.175df073.chunk.js.map",
+    "main.js": "/poetracker/static/js/main.2bc4dbd8.chunk.js",
+    "main.js.map": "/poetracker/static/js/main.2bc4dbd8.chunk.js.map",
     "runtime~main.js": "/poetracker/static/js/runtime~main.f2b7c437.js",
     "runtime~main.js.map": "/poetracker/static/js/runtime~main.f2b7c437.js.map",
-    "static/js/2.e3940d0b.chunk.js": "/poetracker/static/js/2.e3940d0b.chunk.js",
-    "static/js/2.e3940d0b.chunk.js.map": "/poetracker/static/js/2.e3940d0b.chunk.js.map",
+    "static/js/2.b6f01398.chunk.js": "/poetracker/static/js/2.b6f01398.chunk.js",
+    "static/js/2.b6f01398.chunk.js.map": "/poetracker/static/js/2.b6f01398.chunk.js.map",
     "index.html": "/poetracker/index.html",
-    "precache-manifest.84c0d0629bc8b1377f61aec0f6b76b06.js": "/poetracker/precache-manifest.84c0d0629bc8b1377f61aec0f6b76b06.js",
+    "precache-manifest.fb5d4fcf4ea8ef1d58e02c9fefe0d40b.js": "/poetracker/precache-manifest.fb5d4fcf4ea8ef1d58e02c9fefe0d40b.js",
     "service-worker.js": "/poetracker/service-worker.js",
     "static/css/main.d2718870.chunk.css.map": "/poetracker/static/css/main.d2718870.chunk.css.map"
   }
