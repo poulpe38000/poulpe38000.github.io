@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "112439bb24e043bbe265a4cd59b50940",
+    "revision": "d1d337a8655f901b66f869cdbd37229d",
     "url": "/poetracker/index.html"
   },
   {
-    "revision": "ff9c26eeeab2bf650a70",
+    "revision": "c5afb582378543c6c59e",
     "url": "/poetracker/static/css/main.d2718870.chunk.css"
   },
   {
-    "revision": "73fb252247f65b925999",
-    "url": "/poetracker/static/js/2.f13f33a2.chunk.js"
+    "revision": "f25f3d73fd97ff6e35c4",
+    "url": "/poetracker/static/js/2.f15fe3ab.chunk.js"
   },
   {
-    "revision": "ff9c26eeeab2bf650a70",
-    "url": "/poetracker/static/js/main.eab92be3.chunk.js"
+    "revision": "c5afb582378543c6c59e",
+    "url": "/poetracker/static/js/main.b6d544bb.chunk.js"
   },
   {
     "revision": "f86ffec9f2f57b0fa5d8",
